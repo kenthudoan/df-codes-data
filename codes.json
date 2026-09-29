@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-29T23:50:00Z",
+  "lastUpdated": "2026-09-29T17:17:20.298Z",
   "source": {
     "name": "Auto Redeem Code Delta Force — Community Feed",
     "minVotes": 3,
@@ -8,15 +8,4528 @@
   },
   "codes": [
     {
-      "id": "test001",
-      "code": "DFTEST2026ABC",
-      "title": "Test code từ cộng đồng",
-      "description": "Code test để kiểm tra feed",
+      "id": "bulk-0348",
+      "code": "DFIWCHAMP",
+      "title": "Code DFIWCHAMP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
       "source": "https://github.com/kenthudoan/df-codes-data",
-      "tags": ["test"],
+      "tags": [
+        "community"
+      ],
       "validFrom": "2026-09-29T00:00:00Z",
-      "validUntil": "2026-12-31T23:59:59Z",
-      "addedAt": "2026-09-29T23:58:00Z"
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:39:00.000Z"
+    },
+    {
+      "id": "bulk-0347",
+      "code": "DFIW26K5S9",
+      "title": "Code DFIW26K5S9",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:38:00.000Z"
+    },
+    {
+      "id": "bulk-0346",
+      "code": "DFIW26RT4F",
+      "title": "Code DFIW26RT4F",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:37:00.000Z"
+    },
+    {
+      "id": "bulk-0345",
+      "code": "DFIW26N8P4",
+      "title": "Code DFIW26N8P4",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:36:00.000Z"
+    },
+    {
+      "id": "bulk-0344",
+      "code": "DFIW266F2V",
+      "title": "Code DFIW266F2V",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:35:00.000Z"
+    },
+    {
+      "id": "bulk-0343",
+      "code": "DFIW26Y7J3",
+      "title": "Code DFIW26Y7J3",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:34:00.000Z"
+    },
+    {
+      "id": "bulk-0342",
+      "code": "DFIW265M9A",
+      "title": "Code DFIW265M9A",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:33:00.000Z"
+    },
+    {
+      "id": "bulk-0341",
+      "code": "DFIW26ZX3Q",
+      "title": "Code DFIW26ZX3Q",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:32:00.000Z"
+    },
+    {
+      "id": "bulk-0340",
+      "code": "DFIW26R4W8",
+      "title": "Code DFIW26R4W8",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:31:00.000Z"
+    },
+    {
+      "id": "bulk-0339",
+      "code": "DFIW263T7Z",
+      "title": "Code DFIW263T7Z",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:30:00.000Z"
+    },
+    {
+      "id": "bulk-0338",
+      "code": "DFIW26H9KP",
+      "title": "Code DFIW26H9KP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:29:00.000Z"
+    },
+    {
+      "id": "bulk-0337",
+      "code": "DFIW26Z5RT",
+      "title": "Code DFIW26Z5RT",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:28:00.000Z"
+    },
+    {
+      "id": "bulk-0336",
+      "code": "DFIW26P8X2",
+      "title": "Code DFIW26P8X2",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:27:00.000Z"
+    },
+    {
+      "id": "bulk-0335",
+      "code": "DFIW264K7M",
+      "title": "Code DFIW264K7M",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:26:00.000Z"
+    },
+    {
+      "id": "bulk-0334",
+      "code": "DFIW268B5V",
+      "title": "Code DFIW268B5V",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:25:00.000Z"
+    },
+    {
+      "id": "bulk-0333",
+      "code": "DFIW26L2WY",
+      "title": "Code DFIW26L2WY",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:24:00.000Z"
+    },
+    {
+      "id": "bulk-0332",
+      "code": "DFIW26M7Q9",
+      "title": "Code DFIW26M7Q9",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:23:00.000Z"
+    },
+    {
+      "id": "bulk-0331",
+      "code": "DFIW26X3NC",
+      "title": "Code DFIW26X3NC",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:22:00.000Z"
+    },
+    {
+      "id": "bulk-0330",
+      "code": "POC3005S19",
+      "title": "Code POC3005S19",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:21:00.000Z"
+    },
+    {
+      "id": "bulk-0329",
+      "code": "DFOS9R2HXC",
+      "title": "Code DFOS9R2HXC",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:20:00.000Z"
+    },
+    {
+      "id": "bulk-0328",
+      "code": "DFOSB6T3WZ",
+      "title": "Code DFOSB6T3WZ",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:19:00.000Z"
+    },
+    {
+      "id": "bulk-0327",
+      "code": "DFOS3Y8KLM",
+      "title": "Code DFOS3Y8KLM",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:18:00.000Z"
+    },
+    {
+      "id": "bulk-0326",
+      "code": "DFSTEALTH44",
+      "title": "Code DFSTEALTH44",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:17:00.000Z"
+    },
+    {
+      "id": "bulk-0325",
+      "code": "L34m5GxYjnPkXzckgdEB",
+      "title": "Code L34m5GxYjnPkXzck…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:16:00.000Z"
+    },
+    {
+      "id": "bulk-0324",
+      "code": "SVBesCxYcsAN6LCD47P",
+      "title": "Code SVBesCxYcsAN6LCD…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:15:00.000Z"
+    },
+    {
+      "id": "bulk-0323",
+      "code": "DFASSAULT55",
+      "title": "Code DFASSAULT55",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:14:00.000Z"
+    },
+    {
+      "id": "bulk-0322",
+      "code": "DFENERGY33",
+      "title": "Code DFENERGY33",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:13:00.000Z"
+    },
+    {
+      "id": "bulk-0321",
+      "code": "DFUZIRAT47",
+      "title": "Code DFUZIRAT47",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:12:00.000Z"
+    },
+    {
+      "id": "bulk-0320",
+      "code": "DFELITE999",
+      "title": "Code DFELITE999",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:11:00.000Z"
+    },
+    {
+      "id": "bulk-0319",
+      "code": "DFAIM666",
+      "title": "Code DFAIM666",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:10:00.000Z"
+    },
+    {
+      "id": "bulk-0318",
+      "code": "DFTARGET777",
+      "title": "Code DFTARGET777",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:09:00.000Z"
+    },
+    {
+      "id": "bulk-0317",
+      "code": "DFWANTED888",
+      "title": "Code DFWANTED888",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:08:00.000Z"
+    },
+    {
+      "id": "bulk-0316",
+      "code": "DFCOHERENCE35",
+      "title": "Code DFCOHERENCE35",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:07:00.000Z"
+    },
+    {
+      "id": "bulk-0315",
+      "code": "DFakachamp",
+      "title": "Code DFakachamp",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:06:00.000Z"
+    },
+    {
+      "id": "bulk-0314",
+      "code": "DFCCEIEI01",
+      "title": "Code DFCCEIEI01",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:05:00.000Z"
+    },
+    {
+      "id": "bulk-0313",
+      "code": "DFXTMM99133",
+      "title": "Code DFXTMM99133",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:04:00.000Z"
+    },
+    {
+      "id": "bulk-0312",
+      "code": "DFXTMM17844",
+      "title": "Code DFXTMM17844",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:03:00.000Z"
+    },
+    {
+      "id": "bulk-0311",
+      "code": "DFXBAIT77915",
+      "title": "Code DFXBAIT77915",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:02:00.000Z"
+    },
+    {
+      "id": "bulk-0310",
+      "code": "DFXBAIT63491",
+      "title": "Code DFXBAIT63491",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:01:00.000Z"
+    },
+    {
+      "id": "bulk-0309",
+      "code": "DFXBAIT88116",
+      "title": "Code DFXBAIT88116",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T23:00:00.000Z"
+    },
+    {
+      "id": "bulk-0308",
+      "code": "DFRAMADAN1477H",
+      "title": "Code DFRAMADAN1477H",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:59:00.000Z"
+    },
+    {
+      "id": "bulk-0307",
+      "code": "DFUTS26QL0102C55",
+      "title": "Code DFUTS26QL0102C55",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:58:00.000Z"
+    },
+    {
+      "id": "bulk-0306",
+      "code": "DFUTS26QL0102C26",
+      "title": "Code DFUTS26QL0102C26",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:57:00.000Z"
+    },
+    {
+      "id": "bulk-0305",
+      "code": "DFUTS26QL3101C91",
+      "title": "Code DFUTS26QL3101C91",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:56:00.000Z"
+    },
+    {
+      "id": "bulk-0304",
+      "code": "DFUTS26QL3001C82",
+      "title": "Code DFUTS26QL3001C82",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:55:00.000Z"
+    },
+    {
+      "id": "bulk-0303",
+      "code": "DFUTS26QL3001C47",
+      "title": "Code DFUTS26QL3001C47",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:54:00.000Z"
+    },
+    {
+      "id": "bulk-0302",
+      "code": "DFUTS26QL2901C01",
+      "title": "Code DFUTS26QL2901C01",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:53:00.000Z"
+    },
+    {
+      "id": "bulk-0301",
+      "code": "DFUTS26QL3001C29",
+      "title": "Code DFUTS26QL3001C29",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:52:00.000Z"
+    },
+    {
+      "id": "bulk-0300",
+      "code": "DFUTS26QL2901C03",
+      "title": "Code DFUTS26QL2901C03",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:51:00.000Z"
+    },
+    {
+      "id": "bulk-0299",
+      "code": "DFUTS26QL2901C02",
+      "title": "Code DFUTS26QL2901C02",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:50:00.000Z"
+    },
+    {
+      "id": "bulk-0298",
+      "code": "DFaura371",
+      "title": "Code DFaura371",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:49:00.000Z"
+    },
+    {
+      "id": "bulk-0297",
+      "code": "DFIWTXD001",
+      "title": "Code DFIWTXD001",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:48:00.000Z"
+    },
+    {
+      "id": "bulk-0296",
+      "code": "DFIWTXD01",
+      "title": "Code DFIWTXD01",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:47:00.000Z"
+    },
+    {
+      "id": "bulk-0295",
+      "code": "DFIWTXD913",
+      "title": "Code DFIWTXD913",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:46:00.000Z"
+    },
+    {
+      "id": "bulk-0294",
+      "code": "WHOWILLWIN",
+      "title": "Code WHOWILLWIN",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:45:00.000Z"
+    },
+    {
+      "id": "bulk-0293",
+      "code": "DFIWDAY4LETSGO",
+      "title": "Code DFIWDAY4LETSGO",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:44:00.000Z"
+    },
+    {
+      "id": "bulk-0292",
+      "code": "DFIWDAY3HANOI",
+      "title": "Code DFIWDAY3HANOI",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:43:00.000Z"
+    },
+    {
+      "id": "bulk-0291",
+      "code": "DFIWDAY3WAW",
+      "title": "Code DFIWDAY3WAW",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:42:00.000Z"
+    },
+    {
+      "id": "bulk-0290",
+      "code": "GIVEMETHAT",
+      "title": "Code GIVEMETHAT",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:41:00.000Z"
+    },
+    {
+      "id": "bulk-0289",
+      "code": "DFIWDAY2M3",
+      "title": "Code DFIWDAY2M3",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:40:00.000Z"
+    },
+    {
+      "id": "bulk-0288",
+      "code": "DFIWDAY2HUHU",
+      "title": "Code DFIWDAY2HUHU",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:39:00.000Z"
+    },
+    {
+      "id": "bulk-0287",
+      "code": "DFIWDAY2TADA",
+      "title": "Code DFIWDAY2TADA",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:38:00.000Z"
+    },
+    {
+      "id": "bulk-0286",
+      "code": "DFIWSURPRISE",
+      "title": "Code DFIWSURPRISE",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:37:00.000Z"
+    },
+    {
+      "id": "bulk-0285",
+      "code": "DFIWDAY1YOYO",
+      "title": "Code DFIWDAY1YOYO",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:36:00.000Z"
+    },
+    {
+      "id": "bulk-0284",
+      "code": "DFIWDAY1OPOP",
+      "title": "Code DFIWDAY1OPOP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:35:00.000Z"
+    },
+    {
+      "id": "bulk-0283",
+      "code": "DFIWDAY1START",
+      "title": "Code DFIWDAY1START",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:34:00.000Z"
+    },
+    {
+      "id": "bulk-0282",
+      "code": "DFUT2025FINALS4216",
+      "title": "Code DFUT2025FINALS42…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:33:00.000Z"
+    },
+    {
+      "id": "bulk-0281",
+      "code": "DFCantWait1114",
+      "title": "Code DFCantWait1114",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:32:00.000Z"
+    },
+    {
+      "id": "bulk-0280",
+      "code": "DFFinally1107",
+      "title": "Code DFFinally1107",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:31:00.000Z"
+    },
+    {
+      "id": "bulk-0279",
+      "code": "DFISPACECITYECMO",
+      "title": "Code DFISPACECITYECMO",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:30:00.000Z"
+    },
+    {
+      "id": "bulk-0278",
+      "code": "DFISPACECITYMDB",
+      "title": "Code DFISPACECITYMDB",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:29:00.000Z"
+    },
+    {
+      "id": "bulk-0277",
+      "code": "DFISPACECITYISG",
+      "title": "Code DFISPACECITYISG",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:28:00.000Z"
+    },
+    {
+      "id": "bulk-0276",
+      "code": "DFIBRAKKESHLEG",
+      "title": "Code DFIBRAKKESHLEG",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:27:00.000Z"
+    },
+    {
+      "id": "bulk-0275",
+      "code": "DFIBRAKKESHMG",
+      "title": "Code DFIBRAKKESHMG",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:26:00.000Z"
+    },
+    {
+      "id": "bulk-0274",
+      "code": "DFIZERODAMGS",
+      "title": "Code DFIZERODAMGS",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:25:00.000Z"
+    },
+    {
+      "id": "bulk-0273",
+      "code": "DFIXTMXDHY",
+      "title": "Code DFIXTMXDHY",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:24:00.000Z"
+    },
+    {
+      "id": "bulk-0272",
+      "code": "DFIYZJHYDT",
+      "title": "Code DFIYZJHYDT",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:23:00.000Z"
+    },
+    {
+      "id": "bulk-0271",
+      "code": "DFIXDTZBGB",
+      "title": "Code DFIXDTZBGB",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:22:00.000Z"
+    },
+    {
+      "id": "bulk-0270",
+      "code": "DFIPTFGZSKG",
+      "title": "Code DFIPTFGZSKG",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:21:00.000Z"
+    },
+    {
+      "id": "bulk-0269",
+      "code": "DFIPTFGASLGI",
+      "title": "Code DFIPTFGASLGI",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:20:00.000Z"
+    },
+    {
+      "id": "bulk-0268",
+      "code": "DFIPTFGJGFS",
+      "title": "Code DFIPTFGJGFS",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:19:00.000Z"
+    },
+    {
+      "id": "bulk-0267",
+      "code": "PzDArbxYuL2f6RcaWE7T",
+      "title": "Code PzDArbxYuL2f6Rca…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:18:00.000Z"
+    },
+    {
+      "id": "bulk-0266",
+      "code": "GARENADFM4Z8YJ",
+      "title": "Code GARENADFM4Z8YJ",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:17:00.000Z"
+    },
+    {
+      "id": "bulk-0265",
+      "code": "GARENADFQ1H8SZ",
+      "title": "Code GARENADFQ1H8SZ",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:16:00.000Z"
+    },
+    {
+      "id": "bulk-0264",
+      "code": "GARENADFX9B7Q2",
+      "title": "Code GARENADFX9B7Q2",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:15:00.000Z"
+    },
+    {
+      "id": "bulk-0263",
+      "code": "GARENADF2503K8F3",
+      "title": "Code GARENADF2503K8F3",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:14:00.000Z"
+    },
+    {
+      "id": "bulk-0262",
+      "code": "SVdjHmxYCAeMjiRqdq86",
+      "title": "Code SVdjHmxYCAeMjiRq…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:13:00.000Z"
+    },
+    {
+      "id": "bulk-0261",
+      "code": "8RUW6wxY4kty9EpswSzD",
+      "title": "Code 8RUW6wxY4kty9Eps…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:12:00.000Z"
+    },
+    {
+      "id": "bulk-0260",
+      "code": "yU5DpNxYkwx2ck76pcnw",
+      "title": "Code yU5DpNxYkwx2ck76…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:11:00.000Z"
+    },
+    {
+      "id": "bulk-0259",
+      "code": "DFWEAPON91",
+      "title": "Code DFWEAPON91",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:10:00.000Z"
+    },
+    {
+      "id": "bulk-0258",
+      "code": "DFVICTORY11",
+      "title": "Code DFVICTORY11",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:09:00.000Z"
+    },
+    {
+      "id": "bulk-0257",
+      "code": "DF51login51login",
+      "title": "Code DF51login51login",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:08:00.000Z"
+    },
+    {
+      "id": "bulk-0256",
+      "code": "DFIPPQECMO",
+      "title": "Code DFIPPQECMO",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:07:00.000Z"
+    },
+    {
+      "id": "bulk-0255",
+      "code": "DFIPPQTBAF",
+      "title": "Code DFIPPQTBAF",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:06:00.000Z"
+    },
+    {
+      "id": "bulk-0254",
+      "code": "DFIPPQWLSP",
+      "title": "Code DFIPPQWLSP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:05:00.000Z"
+    },
+    {
+      "id": "bulk-0253",
+      "code": "DFIPPQOCSP",
+      "title": "Code DFIPPQOCSP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:04:00.000Z"
+    },
+    {
+      "id": "bulk-0252",
+      "code": "DFIPPQIASP",
+      "title": "Code DFIPPQIASP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:03:00.000Z"
+    },
+    {
+      "id": "bulk-0251",
+      "code": "DFIPPQARVO",
+      "title": "Code DFIPPQARVO",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:02:00.000Z"
+    },
+    {
+      "id": "bulk-0250",
+      "code": "DFSL4791",
+      "title": "Code DFSL4791",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:01:00.000Z"
+    },
+    {
+      "id": "bulk-0249",
+      "code": "MVPSOLDFSIX",
+      "title": "Code MVPSOLDFSIX",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T22:00:00.000Z"
+    },
+    {
+      "id": "bulk-0248",
+      "code": "SOLMAJORGG9",
+      "title": "Code SOLMAJORGG9",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:59:00.000Z"
+    },
+    {
+      "id": "bulk-0247",
+      "code": "DFSIXTOPACE",
+      "title": "Code DFSIXTOPACE",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:58:00.000Z"
+    },
+    {
+      "id": "bulk-0246",
+      "code": "11ResCupDF",
+      "title": "Code 11ResCupDF",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:57:00.000Z"
+    },
+    {
+      "id": "bulk-0245",
+      "code": "DeltaForceRC777",
+      "title": "Code DeltaForceRC777",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:56:00.000Z"
+    },
+    {
+      "id": "bulk-0244",
+      "code": "RCL813",
+      "title": "Code RCL813",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:55:00.000Z"
+    },
+    {
+      "id": "bulk-0243",
+      "code": "812RCB",
+      "title": "Code 812RCB",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:54:00.000Z"
+    },
+    {
+      "id": "bulk-0242",
+      "code": "22DFResCup",
+      "title": "Code 22DFResCup",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:53:00.000Z"
+    },
+    {
+      "id": "bulk-0241",
+      "code": "RCA812",
+      "title": "Code RCA812",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:52:00.000Z"
+    },
+    {
+      "id": "bulk-0240",
+      "code": "DFSL7789",
+      "title": "Code DFSL7789",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:51:00.000Z"
+    },
+    {
+      "id": "bulk-0239",
+      "code": "DFHOLIDAY421",
+      "title": "Code DFHOLIDAY421",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:50:00.000Z"
+    },
+    {
+      "id": "bulk-0238",
+      "code": "DFSL6257",
+      "title": "Code DFSL6257",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:49:00.000Z"
+    },
+    {
+      "id": "bulk-0237",
+      "code": "DFSL5029",
+      "title": "Code DFSL5029",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:48:00.000Z"
+    },
+    {
+      "id": "bulk-0236",
+      "code": "DFSL2823",
+      "title": "Code DFSL2823",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:47:00.000Z"
+    },
+    {
+      "id": "bulk-0235",
+      "code": "KINGSIXMAJOR",
+      "title": "Code KINGSIXMAJOR",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:46:00.000Z"
+    },
+    {
+      "id": "bulk-0234",
+      "code": "DFMAJORWIN8",
+      "title": "Code DFMAJORWIN8",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:45:00.000Z"
+    },
+    {
+      "id": "bulk-0233",
+      "code": "DFSL9304",
+      "title": "Code DFSL9304",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:44:00.000Z"
+    },
+    {
+      "id": "bulk-0232",
+      "code": "DFUTWQ210862",
+      "title": "Code DFUTWQ210862",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:43:00.000Z"
+    },
+    {
+      "id": "bulk-0231",
+      "code": "DFUTWQ210833",
+      "title": "Code DFUTWQ210833",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:42:00.000Z"
+    },
+    {
+      "id": "bulk-0230",
+      "code": "DFUTWQ210810",
+      "title": "Code DFUTWQ210810",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:41:00.000Z"
+    },
+    {
+      "id": "bulk-0229",
+      "code": "DFAPEX835",
+      "title": "Code DFAPEX835",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:40:00.000Z"
+    },
+    {
+      "id": "bulk-0228",
+      "code": "DFSL2793",
+      "title": "Code DFSL2793",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:39:00.000Z"
+    },
+    {
+      "id": "bulk-0227",
+      "code": "DFGKTK34",
+      "title": "Code DFGKTK34",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:38:00.000Z"
+    },
+    {
+      "id": "bulk-0226",
+      "code": "DFLUISHERE",
+      "title": "Code DFLUISHERE",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:37:00.000Z"
+    },
+    {
+      "id": "bulk-0225",
+      "code": "DFISTARRY939",
+      "title": "Code DFISTARRY939",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:36:00.000Z"
+    },
+    {
+      "id": "bulk-0224",
+      "code": "DFUTWQ220811",
+      "title": "Code DFUTWQ220811",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:35:00.000Z"
+    },
+    {
+      "id": "bulk-0223",
+      "code": "DFUTWQ220831",
+      "title": "Code DFUTWQ220831",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:34:00.000Z"
+    },
+    {
+      "id": "bulk-0222",
+      "code": "DFUTWQ220857",
+      "title": "Code DFUTWQ220857",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:33:00.000Z"
+    },
+    {
+      "id": "bulk-0221",
+      "code": "DFUTWQ200889",
+      "title": "Code DFUTWQ200889",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:32:00.000Z"
+    },
+    {
+      "id": "bulk-0220",
+      "code": "DFUTWQ200880",
+      "title": "Code DFUTWQ200880",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:31:00.000Z"
+    },
+    {
+      "id": "bulk-0219",
+      "code": "DFUTWQ200838",
+      "title": "Code DFUTWQ200838",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:30:00.000Z"
+    },
+    {
+      "id": "bulk-0218",
+      "code": "DFUZI777",
+      "title": "Code DFUZI777",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:29:00.000Z"
+    },
+    {
+      "id": "bulk-0217",
+      "code": "PROSOLMAJOR",
+      "title": "Code PROSOLMAJOR",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:28:00.000Z"
+    },
+    {
+      "id": "bulk-0216",
+      "code": "VIP999DFSIX",
+      "title": "Code VIP999DFSIX",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:27:00.000Z"
+    },
+    {
+      "id": "bulk-0215",
+      "code": "SOLDFACE007",
+      "title": "Code SOLDFACE007",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:26:00.000Z"
+    },
+    {
+      "id": "bulk-0214",
+      "code": "DFSL1983",
+      "title": "Code DFSL1983",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:25:00.000Z"
+    },
+    {
+      "id": "bulk-0213",
+      "code": "DFBAEXP67",
+      "title": "Code DFBAEXP67",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:24:00.000Z"
+    },
+    {
+      "id": "bulk-0212",
+      "code": "DFAMMX96",
+      "title": "Code DFAMMX96",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:23:00.000Z"
+    },
+    {
+      "id": "bulk-0211",
+      "code": "DFSIXMAJORCHAMP",
+      "title": "Code DFSIXMAJORCHAMP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:22:00.000Z"
+    },
+    {
+      "id": "bulk-0210",
+      "code": "DFSIX666",
+      "title": "Code DFSIX666",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:21:00.000Z"
+    },
+    {
+      "id": "bulk-0209",
+      "code": "DF666MAJOR",
+      "title": "Code DF666MAJOR",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:20:00.000Z"
+    },
+    {
+      "id": "bulk-0208",
+      "code": "GGWPSIXMAJOR66",
+      "title": "Code GGWPSIXMAJOR66",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:19:00.000Z"
+    },
+    {
+      "id": "bulk-0207",
+      "code": "SIXMAJORTOP",
+      "title": "Code SIXMAJORTOP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:18:00.000Z"
+    },
+    {
+      "id": "bulk-0206",
+      "code": "DFUTWQ230879",
+      "title": "Code DFUTWQ230879",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:17:00.000Z"
+    },
+    {
+      "id": "bulk-0205",
+      "code": "DFUTWQ230872",
+      "title": "Code DFUTWQ230872",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:16:00.000Z"
+    },
+    {
+      "id": "bulk-0204",
+      "code": "DFUTWQ230897",
+      "title": "Code DFUTWQ230897",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:15:00.000Z"
+    },
+    {
+      "id": "bulk-0203",
+      "code": "DFUTARMAMENT",
+      "title": "Code DFUTARMAMENT",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:14:00.000Z"
+    },
+    {
+      "id": "bulk-0202",
+      "code": "DFUTSUPPYPACK",
+      "title": "Code DFUTSUPPYPACK",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:13:00.000Z"
+    },
+    {
+      "id": "bulk-0201",
+      "code": "DFUTINTERMEDIATE",
+      "title": "Code DFUTINTERMEDIATE",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:12:00.000Z"
+    },
+    {
+      "id": "bulk-0200",
+      "code": "DFUTGEARTICKET",
+      "title": "Code DFUTGEARTICKET",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:11:00.000Z"
+    },
+    {
+      "id": "bulk-0199",
+      "code": "DFUTWEAPON",
+      "title": "Code DFUTWEAPON",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:10:00.000Z"
+    },
+    {
+      "id": "bulk-0198",
+      "code": "DFUTSCARH",
+      "title": "Code DFUTSCARH",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:09:00.000Z"
+    },
+    {
+      "id": "bulk-0197",
+      "code": "GARENADFID2501R572",
+      "title": "Code GARENADFID2501R5…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:08:00.000Z"
+    },
+    {
+      "id": "bulk-0196",
+      "code": "GARENADFID2501L983",
+      "title": "Code GARENADFID2501L9…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:07:00.000Z"
+    },
+    {
+      "id": "bulk-0195",
+      "code": "GARENADFID2501V621",
+      "title": "Code GARENADFID2501V6…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:06:00.000Z"
+    },
+    {
+      "id": "bulk-0194",
+      "code": "A5Z1NDW8K3PJLU",
+      "title": "Code A5Z1NDW8K3PJLU",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:05:00.000Z"
+    },
+    {
+      "id": "bulk-0193",
+      "code": "Top1BXHVN",
+      "title": "Code Top1BXHVN",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:04:00.000Z"
+    },
+    {
+      "id": "bulk-0192",
+      "code": "N4SQWgxYcHw7gUci3bJy",
+      "title": "Code N4SQWgxYcHw7gUci…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:03:00.000Z"
+    },
+    {
+      "id": "bulk-0191",
+      "code": "ReturningWarrior2",
+      "title": "Code ReturningWarrior…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:02:00.000Z"
+    },
+    {
+      "id": "bulk-0190",
+      "code": "ReturningWarrior1",
+      "title": "Code ReturningWarrior…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:01:00.000Z"
+    },
+    {
+      "id": "bulk-0189",
+      "code": "ReturningWarrior3",
+      "title": "Code ReturningWarrior…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T21:00:00.000Z"
+    },
+    {
+      "id": "bulk-0188",
+      "code": "DFASCEND72",
+      "title": "Code DFASCEND72",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:59:00.000Z"
+    },
+    {
+      "id": "bulk-0187",
+      "code": "DFclover812",
+      "title": "Code DFclover812",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:58:00.000Z"
+    },
+    {
+      "id": "bulk-0186",
+      "code": "DFEnergy428",
+      "title": "Code DFEnergy428",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:57:00.000Z"
+    },
+    {
+      "id": "bulk-0185",
+      "code": "TrickOrTreat",
+      "title": "Code TrickOrTreat",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:56:00.000Z"
+    },
+    {
+      "id": "bulk-0184",
+      "code": "DFMagic057",
+      "title": "Code DFMagic057",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:55:00.000Z"
+    },
+    {
+      "id": "bulk-0183",
+      "code": "DFserene218",
+      "title": "Code DFserene218",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:54:00.000Z"
+    },
+    {
+      "id": "bulk-0182",
+      "code": "DF425BountyS2",
+      "title": "Code DF425BountyS2",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:53:00.000Z"
+    },
+    {
+      "id": "bulk-0181",
+      "code": "DFGiveMeBrick425",
+      "title": "Code DFGiveMeBrick425",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:52:00.000Z"
+    },
+    {
+      "id": "bulk-0180",
+      "code": "DFGOGOGO425",
+      "title": "Code DFGOGOGO425",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:51:00.000Z"
+    },
+    {
+      "id": "bulk-0179",
+      "code": "DFHUNTER666",
+      "title": "Code DFHUNTER666",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:50:00.000Z"
+    },
+    {
+      "id": "bulk-0178",
+      "code": "DFWIN777",
+      "title": "Code DFWIN777",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:49:00.000Z"
+    },
+    {
+      "id": "bulk-0177",
+      "code": "DF425SOL",
+      "title": "Code DF425SOL",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:48:00.000Z"
+    },
+    {
+      "id": "bulk-0176",
+      "code": "DFCCOPWINEIEI",
+      "title": "Code DFCCOPWINEIEI",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:47:00.000Z"
+    },
+    {
+      "id": "bulk-0175",
+      "code": "DFUTS26QL3101C38",
+      "title": "Code DFUTS26QL3101C38",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:46:00.000Z"
+    },
+    {
+      "id": "bulk-0174",
+      "code": "85ewN4xYbJfncPKbADR",
+      "title": "Code 85ewN4xYbJfncPKb…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:45:00.000Z"
+    },
+    {
+      "id": "bulk-0173",
+      "code": "DFVANGUARD76",
+      "title": "Code DFVANGUARD76",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:44:00.000Z"
+    },
+    {
+      "id": "bulk-0172",
+      "code": "DFExceptional305",
+      "title": "Code DFExceptional305",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:43:00.000Z"
+    },
+    {
+      "id": "bulk-0171",
+      "code": "DFOS7Q2VXA",
+      "title": "Code DFOS7Q2VXA",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:42:00.000Z"
+    },
+    {
+      "id": "bulk-0170",
+      "code": "DFOS3FZ9LK",
+      "title": "Code DFOS3FZ9LK",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:41:00.000Z"
+    },
+    {
+      "id": "bulk-0169",
+      "code": "DFWITNESS77",
+      "title": "Code DFWITNESS77",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:40:00.000Z"
+    },
+    {
+      "id": "bulk-0168",
+      "code": "POC3005S51",
+      "title": "Code POC3005S51",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:39:00.000Z"
+    },
+    {
+      "id": "bulk-0167",
+      "code": "POC3005S53",
+      "title": "Code POC3005S53",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:38:00.000Z"
+    },
+    {
+      "id": "bulk-0166",
+      "code": "POC3005S59",
+      "title": "Code POC3005S59",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:37:00.000Z"
+    },
+    {
+      "id": "bulk-0165",
+      "code": "POC3005S99",
+      "title": "Code POC3005S99",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:36:00.000Z"
+    },
+    {
+      "id": "bulk-0164",
+      "code": "POC3005S52",
+      "title": "Code POC3005S52",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:35:00.000Z"
+    },
+    {
+      "id": "bulk-0163",
+      "code": "POC3105S90",
+      "title": "Code POC3105S90",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:34:00.000Z"
+    },
+    {
+      "id": "bulk-0162",
+      "code": "POC3105S31",
+      "title": "Code POC3105S31",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:33:00.000Z"
+    },
+    {
+      "id": "bulk-0161",
+      "code": "POC3105S64",
+      "title": "Code POC3105S64",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:32:00.000Z"
+    },
+    {
+      "id": "bulk-0160",
+      "code": "POC3105S73",
+      "title": "Code POC3105S73",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:31:00.000Z"
+    },
+    {
+      "id": "bulk-0159",
+      "code": "POC3105S96",
+      "title": "Code POC3105S96",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:30:00.000Z"
+    },
+    {
+      "id": "bulk-0158",
+      "code": "POC3105S95",
+      "title": "Code POC3105S95",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:29:00.000Z"
+    },
+    {
+      "id": "bulk-0157",
+      "code": "TRILLIONRAID300",
+      "title": "Code TRILLIONRAID300",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:28:00.000Z"
+    },
+    {
+      "id": "bulk-0156",
+      "code": "TRILLIONRAID600",
+      "title": "Code TRILLIONRAID600",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:27:00.000Z"
+    },
+    {
+      "id": "bulk-0155",
+      "code": "TRILLIONRAID1000",
+      "title": "Code TRILLIONRAID1000",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:26:00.000Z"
+    },
+    {
+      "id": "bulk-0154",
+      "code": "MOILOOT79",
+      "title": "Code MOILOOT79",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:25:00.000Z"
+    },
+    {
+      "id": "bulk-0153",
+      "code": "MOILOOT65",
+      "title": "Code MOILOOT65",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:24:00.000Z"
+    },
+    {
+      "id": "bulk-0152",
+      "code": "HEDELTAFORCE9026",
+      "title": "Code HEDELTAFORCE9026",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:23:00.000Z"
+    },
+    {
+      "id": "bulk-0151",
+      "code": "HEDELTAFORCE8032",
+      "title": "Code HEDELTAFORCE8032",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:22:00.000Z"
+    },
+    {
+      "id": "bulk-0150",
+      "code": "DFTURING09",
+      "title": "Code DFTURING09",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:21:00.000Z"
+    },
+    {
+      "id": "bulk-0149",
+      "code": "DFAMMO08",
+      "title": "Code DFAMMO08",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:20:00.000Z"
+    },
+    {
+      "id": "bulk-0148",
+      "code": "DFARMX46",
+      "title": "Code DFARMX46",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:19:00.000Z"
+    },
+    {
+      "id": "bulk-0147",
+      "code": "DFPACK293",
+      "title": "Code DFPACK293",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:18:00.000Z"
+    },
+    {
+      "id": "bulk-0146",
+      "code": "DFCRAFT427",
+      "title": "Code DFCRAFT427",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:17:00.000Z"
+    },
+    {
+      "id": "bulk-0145",
+      "code": "MOILOOT45",
+      "title": "Code MOILOOT45",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:16:00.000Z"
+    },
+    {
+      "id": "bulk-0144",
+      "code": "MOILOOT60",
+      "title": "Code MOILOOT60",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:15:00.000Z"
+    },
+    {
+      "id": "bulk-0143",
+      "code": "MOILOOT04",
+      "title": "Code MOILOOT04",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:14:00.000Z"
+    },
+    {
+      "id": "bulk-0142",
+      "code": "MOILOOT02",
+      "title": "Code MOILOOT02",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:13:00.000Z"
+    },
+    {
+      "id": "bulk-0141",
+      "code": "MOILOOT48",
+      "title": "Code MOILOOT48",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:12:00.000Z"
+    },
+    {
+      "id": "bulk-0140",
+      "code": "DFWEEK237",
+      "title": "Code DFWEEK237",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:11:00.000Z"
+    },
+    {
+      "id": "bulk-0139",
+      "code": "DFTRNG469",
+      "title": "Code DFTRNG469",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:10:00.000Z"
+    },
+    {
+      "id": "bulk-0138",
+      "code": "DFFILE274",
+      "title": "Code DFFILE274",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:09:00.000Z"
+    },
+    {
+      "id": "bulk-0137",
+      "code": "HEDELTAFORCE8781",
+      "title": "Code HEDELTAFORCE8781",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:08:00.000Z"
+    },
+    {
+      "id": "bulk-0136",
+      "code": "HEDELTAFORCE7563",
+      "title": "Code HEDELTAFORCE7563",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:07:00.000Z"
+    },
+    {
+      "id": "bulk-0135",
+      "code": "HEDELTAFORCE4583",
+      "title": "Code HEDELTAFORCE4583",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:06:00.000Z"
+    },
+    {
+      "id": "bulk-0134",
+      "code": "HEDELTAFORCE3630",
+      "title": "Code HEDELTAFORCE3630",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:05:00.000Z"
+    },
+    {
+      "id": "bulk-0133",
+      "code": "PWC260419S21",
+      "title": "Code PWC260419S21",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:04:00.000Z"
+    },
+    {
+      "id": "bulk-0132",
+      "code": "DFUTW260412S99",
+      "title": "Code DFUTW260412S99",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:03:00.000Z"
+    },
+    {
+      "id": "bulk-0131",
+      "code": "DFUTW260412S36",
+      "title": "Code DFUTW260412S36",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:02:00.000Z"
+    },
+    {
+      "id": "bulk-0130",
+      "code": "DFUTW260412S95",
+      "title": "Code DFUTW260412S95",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:01:00.000Z"
+    },
+    {
+      "id": "bulk-0129",
+      "code": "DFsolace241",
+      "title": "Code DFsolace241",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T20:00:00.000Z"
+    },
+    {
+      "id": "bulk-0128",
+      "code": "DFOSW4D1YP",
+      "title": "Code DFOSW4D1YP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:59:00.000Z"
+    },
+    {
+      "id": "bulk-0127",
+      "code": "DFOS4XJ8PL",
+      "title": "Code DFOS4XJ8PL",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:58:00.000Z"
+    },
+    {
+      "id": "bulk-0126",
+      "code": "DFOS7K2M9Q",
+      "title": "Code DFOS7K2M9Q",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:57:00.000Z"
+    },
+    {
+      "id": "bulk-0125",
+      "code": "DFOSS260403B81",
+      "title": "Code DFOSS260403B81",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:56:00.000Z"
+    },
+    {
+      "id": "bulk-0124",
+      "code": "DFOSS260403B33",
+      "title": "Code DFOSS260403B33",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:55:00.000Z"
+    },
+    {
+      "id": "bulk-0123",
+      "code": "DFOSS260403B21",
+      "title": "Code DFOSS260403B21",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:54:00.000Z"
+    },
+    {
+      "id": "bulk-0122",
+      "code": "DFOSS260404B47",
+      "title": "Code DFOSS260404B47",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:53:00.000Z"
+    },
+    {
+      "id": "bulk-0121",
+      "code": "DFOSS260404B63",
+      "title": "Code DFOSS260404B63",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:52:00.000Z"
+    },
+    {
+      "id": "bulk-0120",
+      "code": "DFOSS260404B57",
+      "title": "Code DFOSS260404B57",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:51:00.000Z"
+    },
+    {
+      "id": "bulk-0119",
+      "code": "GADFZebra",
+      "title": "Code GADFZebra",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:50:00.000Z"
+    },
+    {
+      "id": "bulk-0118",
+      "code": "DFUT2025PLAYOFF1276",
+      "title": "Code DFUT2025PLAYOFF1…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:49:00.000Z"
+    },
+    {
+      "id": "bulk-0117",
+      "code": "DFUT2025PLAYOFF5732",
+      "title": "Code DFUT2025PLAYOFF5…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:48:00.000Z"
+    },
+    {
+      "id": "bulk-0116",
+      "code": "DFUT2025PLAYOFF8051",
+      "title": "Code DFUT2025PLAYOFF8…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:47:00.000Z"
+    },
+    {
+      "id": "bulk-0115",
+      "code": "DFUT2025PLAYOFF4827",
+      "title": "Code DFUT2025PLAYOFF4…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:46:00.000Z"
+    },
+    {
+      "id": "bulk-0114",
+      "code": "DFUT2025PLAYOFF2509",
+      "title": "Code DFUT2025PLAYOFF2…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:45:00.000Z"
+    },
+    {
+      "id": "bulk-0113",
+      "code": "DFUT2025PLAYOFF9163",
+      "title": "Code DFUT2025PLAYOFF9…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:44:00.000Z"
+    },
+    {
+      "id": "bulk-0112",
+      "code": "DFUT2025FINALS1549",
+      "title": "Code DFUT2025FINALS15…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:43:00.000Z"
+    },
+    {
+      "id": "bulk-0111",
+      "code": "DFAXIOM33",
+      "title": "Code DFAXIOM33",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:42:00.000Z"
+    },
+    {
+      "id": "bulk-0110",
+      "code": "DFGENESIS05",
+      "title": "Code DFGENESIS05",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:41:00.000Z"
+    },
+    {
+      "id": "bulk-0109",
+      "code": "DFPARAGON41",
+      "title": "Code DFPARAGON41",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:40:00.000Z"
+    },
+    {
+      "id": "bulk-0108",
+      "code": "DFmoment479",
+      "title": "Code DFmoment479",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:39:00.000Z"
+    },
+    {
+      "id": "bulk-0107",
+      "code": "DFEMBARK63",
+      "title": "Code DFEMBARK63",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:38:00.000Z"
+    },
+    {
+      "id": "bulk-0106",
+      "code": "DFRESOLVE19",
+      "title": "Code DFRESOLVE19",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:37:00.000Z"
+    },
+    {
+      "id": "bulk-0105",
+      "code": "DFINSIGHT48",
+      "title": "Code DFINSIGHT48",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:36:00.000Z"
+    },
+    {
+      "id": "bulk-0104",
+      "code": "DFHORIZON91",
+      "title": "Code DFHORIZON91",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:35:00.000Z"
+    },
+    {
+      "id": "bulk-0103",
+      "code": "DFmomentum423",
+      "title": "Code DFmomentum423",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:34:00.000Z"
+    },
+    {
+      "id": "bulk-0102",
+      "code": "DFjubilee594",
+      "title": "Code DFjubilee594",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:33:00.000Z"
+    },
+    {
+      "id": "bulk-0101",
+      "code": "DFRL1017",
+      "title": "Code DFRL1017",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:32:00.000Z"
+    },
+    {
+      "id": "bulk-0100",
+      "code": "DFvivid061",
+      "title": "Code DFvivid061",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:31:00.000Z"
+    },
+    {
+      "id": "bulk-0099",
+      "code": "DFceleste516",
+      "title": "Code DFceleste516",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:30:00.000Z"
+    },
+    {
+      "id": "bulk-0098",
+      "code": "DFpromise643",
+      "title": "Code DFpromise643",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:29:00.000Z"
+    },
+    {
+      "id": "bulk-0097",
+      "code": "DFWizard309",
+      "title": "Code DFWizard309",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:28:00.000Z"
+    },
+    {
+      "id": "bulk-0096",
+      "code": "DFHeroic668",
+      "title": "Code DFHeroic668",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:27:00.000Z"
+    },
+    {
+      "id": "bulk-0095",
+      "code": "DFRocket825",
+      "title": "Code DFRocket825",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:26:00.000Z"
+    },
+    {
+      "id": "bulk-0094",
+      "code": "DFFantasy742",
+      "title": "Code DFFantasy742",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:25:00.000Z"
+    },
+    {
+      "id": "bulk-0093",
+      "code": "DFeternity717",
+      "title": "Code DFeternity717",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:24:00.000Z"
+    },
+    {
+      "id": "bulk-0092",
+      "code": "DFoasis407",
+      "title": "Code DFoasis407",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:23:00.000Z"
+    },
+    {
+      "id": "bulk-0091",
+      "code": "DFFlash260",
+      "title": "Code DFFlash260",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:22:00.000Z"
+    },
+    {
+      "id": "bulk-0090",
+      "code": "DFRainbow356",
+      "title": "Code DFRainbow356",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:21:00.000Z"
+    },
+    {
+      "id": "bulk-0089",
+      "code": "DFNinja874",
+      "title": "Code DFNinja874",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:20:00.000Z"
+    },
+    {
+      "id": "bulk-0088",
+      "code": "DFHorizon503",
+      "title": "Code DFHorizon503",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:19:00.000Z"
+    },
+    {
+      "id": "bulk-0087",
+      "code": "DFGalaxy250",
+      "title": "Code DFGalaxy250",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:18:00.000Z"
+    },
+    {
+      "id": "bulk-0086",
+      "code": "DFUltra220",
+      "title": "Code DFUltra220",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:17:00.000Z"
+    },
+    {
+      "id": "bulk-0085",
+      "code": "DFSpark119",
+      "title": "Code DFSpark119",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:16:00.000Z"
+    },
+    {
+      "id": "bulk-0084",
+      "code": "DFessence982",
+      "title": "Code DFessence982",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:15:00.000Z"
+    },
+    {
+      "id": "bulk-0083",
+      "code": "DFRemarkable103",
+      "title": "Code DFRemarkable103",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:14:00.000Z"
+    },
+    {
+      "id": "bulk-0082",
+      "code": "DFExcellent659",
+      "title": "Code DFExcellent659",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:13:00.000Z"
+    },
+    {
+      "id": "bulk-0081",
+      "code": "DFForever395",
+      "title": "Code DFForever395",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:12:00.000Z"
+    },
+    {
+      "id": "bulk-0080",
+      "code": "DFReliable732",
+      "title": "Code DFReliable732",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:11:00.000Z"
+    },
+    {
+      "id": "bulk-0079",
+      "code": "DFOutstanding056",
+      "title": "Code DFOutstanding056",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:10:00.000Z"
+    },
+    {
+      "id": "bulk-0078",
+      "code": "daichienmobile7362",
+      "title": "Code daichienmobile73…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:09:00.000Z"
+    },
+    {
+      "id": "bulk-0077",
+      "code": "daichienmobile3325",
+      "title": "Code daichienmobile33…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:08:00.000Z"
+    },
+    {
+      "id": "bulk-0076",
+      "code": "daichienmobile7095",
+      "title": "Code daichienmobile70…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:07:00.000Z"
+    },
+    {
+      "id": "bulk-0075",
+      "code": "daichienboba6167",
+      "title": "Code daichienboba6167",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:06:00.000Z"
+    },
+    {
+      "id": "bulk-0074",
+      "code": "daichienboba2719",
+      "title": "Code daichienboba2719",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:05:00.000Z"
+    },
+    {
+      "id": "bulk-0073",
+      "code": "daichienboba6228",
+      "title": "Code daichienboba6228",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:04:00.000Z"
+    },
+    {
+      "id": "bulk-0072",
+      "code": "DFCONCORD82",
+      "title": "Code DFCONCORD82",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:03:00.000Z"
+    },
+    {
+      "id": "bulk-0071",
+      "code": "DFDragon504",
+      "title": "Code DFDragon504",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:02:00.000Z"
+    },
+    {
+      "id": "bulk-0070",
+      "code": "DFanchor945",
+      "title": "Code DFanchor945",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:01:00.000Z"
+    },
+    {
+      "id": "bulk-0069",
+      "code": "DFCL503",
+      "title": "Code DFCL503",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T19:00:00.000Z"
+    },
+    {
+      "id": "bulk-0068",
+      "code": "DFbeacon030",
+      "title": "Code DFbeacon030",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:59:00.000Z"
+    },
+    {
+      "id": "bulk-0067",
+      "code": "PWC260418S79",
+      "title": "Code PWC260418S79",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:58:00.000Z"
+    },
+    {
+      "id": "bulk-0066",
+      "code": "DFOSB4N9RD",
+      "title": "Code DFOSB4N9RD",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:57:00.000Z"
+    },
+    {
+      "id": "bulk-0065",
+      "code": "DFOSL5Q7MN",
+      "title": "Code DFOSL5Q7MN",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:56:00.000Z"
+    },
+    {
+      "id": "bulk-0064",
+      "code": "DF1314754",
+      "title": "Code DF1314754",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:55:00.000Z"
+    },
+    {
+      "id": "bulk-0063",
+      "code": "DFBrilliant165",
+      "title": "Code DFBrilliant165",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:54:00.000Z"
+    },
+    {
+      "id": "bulk-0062",
+      "code": "DFDRAGONBOAT",
+      "title": "Code DFDRAGONBOAT",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:53:00.000Z"
+    },
+    {
+      "id": "bulk-0061",
+      "code": "DFOSS260405B36",
+      "title": "Code DFOSS260405B36",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:52:00.000Z"
+    },
+    {
+      "id": "bulk-0060",
+      "code": "DFOSS260405B58",
+      "title": "Code DFOSS260405B58",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:51:00.000Z"
+    },
+    {
+      "id": "bulk-0059",
+      "code": "DFOSS260405B69",
+      "title": "Code DFOSS260405B69",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:50:00.000Z"
+    },
+    {
+      "id": "bulk-0058",
+      "code": "DFCCOPPL4Y3R5",
+      "title": "Code DFCCOPPL4Y3R5",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:49:00.000Z"
+    },
+    {
+      "id": "bulk-0057",
+      "code": "DFCCOPTOBE03",
+      "title": "Code DFCCOPTOBE03",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:48:00.000Z"
+    },
+    {
+      "id": "bulk-0056",
+      "code": "DFCCOPWOR1D",
+      "title": "Code DFCCOPWOR1D",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:47:00.000Z"
+    },
+    {
+      "id": "bulk-0055",
+      "code": "DFCCOPGIST88",
+      "title": "Code DFCCOPGIST88",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:46:00.000Z"
+    },
+    {
+      "id": "bulk-0054",
+      "code": "DFCCOPNOW111",
+      "title": "Code DFCCOPNOW111",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:45:00.000Z"
+    },
+    {
+      "id": "bulk-0053",
+      "code": "PWC260419S84",
+      "title": "Code PWC260419S84",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:44:00.000Z"
+    },
+    {
+      "id": "bulk-0052",
+      "code": "PWC260419S67",
+      "title": "Code PWC260419S67",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:43:00.000Z"
+    },
+    {
+      "id": "bulk-0051",
+      "code": "PWC260418S72",
+      "title": "Code PWC260418S72",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:42:00.000Z"
+    },
+    {
+      "id": "bulk-0050",
+      "code": "PWC260418S11",
+      "title": "Code PWC260418S11",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:41:00.000Z"
+    },
+    {
+      "id": "bulk-0049",
+      "code": "DFAWAKEN56",
+      "title": "Code DFAWAKEN56",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:40:00.000Z"
+    },
+    {
+      "id": "bulk-0048",
+      "code": "DFELEVATE16",
+      "title": "Code DFELEVATE16",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:39:00.000Z"
+    },
+    {
+      "id": "bulk-0047",
+      "code": "PWC260419S65",
+      "title": "Code PWC260419S65",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:38:00.000Z"
+    },
+    {
+      "id": "bulk-0046",
+      "code": "DFakaonikou",
+      "title": "Code DFakaonikou",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:37:00.000Z"
+    },
+    {
+      "id": "bulk-0045",
+      "code": "DFLuckylucky425",
+      "title": "Code DFLuckylucky425",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:36:00.000Z"
+    },
+    {
+      "id": "bulk-0044",
+      "code": "10KSUBSYOUTUBEDFRTNK",
+      "title": "Code 10KSUBSYOUTUBEDF…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:35:00.000Z"
+    },
+    {
+      "id": "bulk-0043",
+      "code": "aCuQjtxY7vXGjxCTBnQU",
+      "title": "Code aCuQjtxY7vXGjxCT…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:34:00.000Z"
+    },
+    {
+      "id": "bulk-0042",
+      "code": "fvzeLrxYajwVviFSTSZ",
+      "title": "Code fvzeLrxYajwVviFS…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:33:00.000Z"
+    },
+    {
+      "id": "bulk-0041",
+      "code": "VIP666SOLDF",
+      "title": "Code VIP666SOLDF",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:32:00.000Z"
+    },
+    {
+      "id": "bulk-0040",
+      "code": "MOILOOT68",
+      "title": "Code MOILOOT68",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:31:00.000Z"
+    },
+    {
+      "id": "bulk-0039",
+      "code": "MOILOOT55",
+      "title": "Code MOILOOT55",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:30:00.000Z"
+    },
+    {
+      "id": "bulk-0038",
+      "code": "MOILOOT92",
+      "title": "Code MOILOOT92",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:29:00.000Z"
+    },
+    {
+      "id": "bulk-0037",
+      "code": "DFUT2025PLAYOFF5910",
+      "title": "Code DFUT2025PLAYOFF5…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:28:00.000Z"
+    },
+    {
+      "id": "bulk-0036",
+      "code": "DFclarity152",
+      "title": "Code DFclarity152",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:27:00.000Z"
+    },
+    {
+      "id": "bulk-0035",
+      "code": "DFCATALYST87",
+      "title": "Code DFCATALYST87",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:26:00.000Z"
+    },
+    {
+      "id": "bulk-0034",
+      "code": "DFsymphony104",
+      "title": "Code DFsymphony104",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:25:00.000Z"
+    },
+    {
+      "id": "bulk-0033",
+      "code": "DFvoyage901",
+      "title": "Code DFvoyage901",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:24:00.000Z"
+    },
+    {
+      "id": "bulk-0032",
+      "code": "DFSH428",
+      "title": "Code DFSH428",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:23:00.000Z"
+    },
+    {
+      "id": "bulk-0031",
+      "code": "DFharbor738",
+      "title": "Code DFharbor738",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:22:00.000Z"
+    },
+    {
+      "id": "bulk-0030",
+      "code": "DFOS2ZK8VA",
+      "title": "Code DFOS2ZK8VA",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:21:00.000Z"
+    },
+    {
+      "id": "bulk-0029",
+      "code": "JGHMCmxYa6PLcFgvD9mg",
+      "title": "Code JGHMCmxYa6PLcFgv…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:20:00.000Z"
+    },
+    {
+      "id": "bulk-0028",
+      "code": "PWC260418S84",
+      "title": "Code PWC260418S84",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:19:00.000Z"
+    },
+    {
+      "id": "bulk-0027",
+      "code": "DFRIDEORDIE4078",
+      "title": "Code DFRIDEORDIE4078",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:18:00.000Z"
+    },
+    {
+      "id": "bulk-0026",
+      "code": "DFRIDEORDIE5215",
+      "title": "Code DFRIDEORDIE5215",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:17:00.000Z"
+    },
+    {
+      "id": "bulk-0025",
+      "code": "DFSL1629",
+      "title": "Code DFSL1629",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:16:00.000Z"
+    },
+    {
+      "id": "bulk-0024",
+      "code": "DFSL8019",
+      "title": "Code DFSL8019",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:15:00.000Z"
+    },
+    {
+      "id": "bulk-0023",
+      "code": "DFCARRAT52",
+      "title": "Code DFCARRAT52",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:14:00.000Z"
+    },
+    {
+      "id": "bulk-0022",
+      "code": "DFWPNX36",
+      "title": "Code DFWPNX36",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:13:00.000Z"
+    },
+    {
+      "id": "bulk-0021",
+      "code": "DFATLA73",
+      "title": "Code DFATLA73",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:12:00.000Z"
+    },
+    {
+      "id": "bulk-0020",
+      "code": "DFADVN74",
+      "title": "Code DFADVN74",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:11:00.000Z"
+    },
+    {
+      "id": "bulk-0019",
+      "code": "DFBLKT42",
+      "title": "Code DFBLKT42",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:10:00.000Z"
+    },
+    {
+      "id": "bulk-0018",
+      "code": "DFLUVUU282",
+      "title": "Code DFLUVUU282",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:09:00.000Z"
+    },
+    {
+      "id": "bulk-0017",
+      "code": "DFSL9108",
+      "title": "Code DFSL9108",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:08:00.000Z"
+    },
+    {
+      "id": "bulk-0016",
+      "code": "DFSL7183",
+      "title": "Code DFSL7183",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:07:00.000Z"
+    },
+    {
+      "id": "bulk-0015",
+      "code": "DFSL3145",
+      "title": "Code DFSL3145",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:06:00.000Z"
+    },
+    {
+      "id": "bulk-0014",
+      "code": "DFSL4412",
+      "title": "Code DFSL4412",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:05:00.000Z"
+    },
+    {
+      "id": "bulk-0013",
+      "code": "DFANIMALCUP",
+      "title": "Code DFANIMALCUP",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:04:00.000Z"
+    },
+    {
+      "id": "bulk-0012",
+      "code": "ANIMALCUPGUN",
+      "title": "Code ANIMALCUPGUN",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:03:00.000Z"
+    },
+    {
+      "id": "bulk-0011",
+      "code": "ANIMALCUPTANK",
+      "title": "Code ANIMALCUPTANK",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:02:00.000Z"
+    },
+    {
+      "id": "bulk-0010",
+      "code": "WELCOMETODF",
+      "title": "Code WELCOMETODF",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:01:00.000Z"
+    },
+    {
+      "id": "bulk-0009",
+      "code": "MOILOOT23",
+      "title": "Code MOILOOT23",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T18:00:00.000Z"
+    },
+    {
+      "id": "bulk-0008",
+      "code": "MOILOOT98",
+      "title": "Code MOILOOT98",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:59:00.000Z"
+    },
+    {
+      "id": "bulk-0007",
+      "code": "XufJgVxYrFCtM5heBT3B",
+      "title": "Code XufJgVxYrFCtM5he…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:58:00.000Z"
+    },
+    {
+      "id": "bulk-0006",
+      "code": "DFIW26C2GX",
+      "title": "Code DFIW26C2GX",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:57:00.000Z"
+    },
+    {
+      "id": "bulk-0005",
+      "code": "DFIW269V3B",
+      "title": "Code DFIW269V3B",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:56:00.000Z"
+    },
+    {
+      "id": "bulk-0004",
+      "code": "f2X6e3xY3pJDCE5rT7P",
+      "title": "Code f2X6e3xY3pJDCE5r…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:55:00.000Z"
+    },
+    {
+      "id": "bulk-0003",
+      "code": "msz7hMxYyGhjp8ay7HpK",
+      "title": "Code msz7hMxYyGhjp8ay…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:54:00.000Z"
+    },
+    {
+      "id": "bulk-0002",
+      "code": "hjRtrKxYLmcTyYcEy64H",
+      "title": "Code hjRtrKxYLmcTyYcE…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:53:00.000Z"
+    },
+    {
+      "id": "bulk-0001",
+      "code": "SsCkDfxY5AkdZqiJLkXq",
+      "title": "Code SsCkDfxY5AkdZqiJ…",
+      "description": "Mã từ danh sách cộng đồng sưu tầm",
+      "source": "https://github.com/kenthudoan/df-codes-data",
+      "tags": [
+        "community"
+      ],
+      "validFrom": "2026-09-29T00:00:00Z",
+      "validUntil": "2099-12-31T23:59:59Z",
+      "addedAt": "2026-09-29T17:52:00.000Z"
     }
   ]
 }
