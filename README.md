@@ -1,0 +1,38 @@
+# df-codes-data
+
+Dữ liệu giftcode cộng đồng cho extension **Auto Redeem Code Delta Force**.
+
+## Mục đích
+
+Extension đọc file [`codes.json`](./codes.json) từ repo này để hiển thị danh sách code mới cho người dùng — không cần cập nhật extension, không cần tự tìm trên mạng.
+
+## Cấu trúc
+
+| File | Vai trò |
+|---|---|
+| `codes.json` | Code đã được cộng đồng verify, đang dùng được |
+| `expired.json` | Code đã hết hạn (audit log) |
+| `schema.json` | JSON Schema cho `codes.json` |
+| `.github/workflows/refresh.yml` | GitHub Actions: validate + bump metadata |
+
+## Phase 1 (hiện tại)
+
+Read-only. Tác giả extension commit trực tiếp vào `codes.json`. Workflow tự động validate + bump `lastUpdated`.
+
+## Phase tiếp theo (planned)
+
+- **Phase 2**: Mở GitHub Issue với label `code-submission` để cộng đồng gửi code mới.
+- **Phase 3**: Vote bằng 👍 reaction trên Issues.
+- **Phase 4**: GitHub Actions tự promote submission có ≥ N votes vào `codes.json`.
+
+## Quy tắc khi thêm code
+
+1. `id` phải unique (dùng slug hoặc hash ngắn).
+2. `code` chỉ chứa `[A-Za-z0-9_-]`, 6–40 ký tự.
+3. Bắt buộc có `validUntil` (ISO-8601).
+4. Nên có `source` (URL bài viết gốc).
+5. Sau khi push, GitHub Actions tự validate và bump `lastUpdated`.
+
+## Đóng góp
+
+Mở Issue với label `code-submission` (Phase 2+). Trước Phase 2, PR trực tiếp vào `codes.json` cũng được chấp nhận.

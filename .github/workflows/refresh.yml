@@ -1,0 +1,41 @@
+name: Validate codes.json
+
+on:
+  push:
+    paths:
+      - 'codes.json'
+      - 'expired.json'
+      - 'schema.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate codes.json against schema
+        run: |
+          npm install --no-save ajv@8 ajv-formats@3
+          node scripts/validate.mjs
+
+      - name: Check expired codes
+        run: node scripts/check-expired.mjs
+
+      - name: Bump lastUpdated + version (nếu thay đổi)
+        run: |
+          LAST=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          node scripts/bump-meta.mjs "$LAST"
+
+      - name: Commit changes nếu có
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: bump codes.json metadata [skip ci]"
+          file_pattern: 'codes.json expired.json'
