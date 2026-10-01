@@ -10,10 +10,21 @@ Extension đọc file [`codes.json`](./codes.json) từ repo này để hiển t
 
 | File | Vai trò |
 |---|---|
-| `codes.json` | Code đã được cộng đồng verify, đang dùng được |
+| `codes.json` | Code đã được user **verify trên tài khoản thật**, dùng được |
 | `expired.json` | Code đã hết hạn (audit log) |
-| `schema.json` | JSON Schema cho `codes.json` |
+| `schema.json` | JSON Schema cho `codes.json` (cho phép `tier` + `verifiedAt`) |
 | `.github/workflows/refresh.yml` | GitHub Actions: validate + bump metadata |
+
+## Tier
+
+Mỗi code có field `tier` (extension 1.7.7+ đọc để lọc UI):
+
+| Tier | Ý nghĩa | Số lượng |
+|---|---|---|
+| `safe` | User đã đổi thành công trên tk thật | 263 |
+| `risky` | Server Garena lỗi cấu hình, không phải lỗi mã | 21 |
+| `broken` | Hết hạn hoặc sai format (đÃ BỎ khỏi repo) | 0 |
+| `unknown` | Chưa verify | 0 |
 
 ## Phase 1 (hiện tại)
 

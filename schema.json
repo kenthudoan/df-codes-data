@@ -55,6 +55,15 @@
             "type": "array",
             "items": { "type": "string" }
           },
+          "tier": {
+            "type": "string",
+            "enum": ["safe", "risky", "broken", "unknown"],
+            "description": "Trạng thái verify: safe (user đã dùng được), risky (lỗi Garena), broken (hết hạn/sai format), unknown (chưa verify)."
+          },
+          "verifiedAt": {
+            "type": "string",
+            "description": "Timestamp user verify gần nhất (định dạng DD/MM/YYYY HH:mm hoặc ISO)."
+          },
           "validFrom": { "type": "string", "format": "date-time" },
           "validUntil": { "type": "string", "format": "date-time" },
           "addedAt": { "type": "string", "format": "date-time" }
