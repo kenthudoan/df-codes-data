@@ -2,74 +2,25 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://raw.githubusercontent.com/kenthudoan/df-codes-data/main/schema.json",
   "title": "Community Giftcode Feed",
-  "description": "Schema cho codes.json của Auto Redeem Code Delta Force community feed.",
   "type": "object",
   "required": ["version", "lastUpdated", "source", "codes"],
   "additionalProperties": false,
   "properties": {
-    "version": {
-      "type": "number",
-      "minimum": 1,
-      "description": "Schema version (bump khi cấu trúc thay đổi)."
-    },
-    "lastUpdated": {
-      "type": "string",
-      "format": "date-time",
-      "description": "ISO-8601 timestamp lần cập nhật cuối. Tự động bump bởi GitHub Actions."
-    },
-    "source": {
-      "type": "object",
-      "required": ["name"],
-      "properties": {
-        "name": { "type": "string" },
-        "minVotes": { "type": "integer", "minimum": 1 },
-        "schemaUrl": { "type": "string", "format": "uri" }
-      }
-    },
-    "codes": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["id", "code"],
-        "properties": {
-          "id": {
-            "type": "string",
-            "minLength": 1,
-            "description": "ID nội bộ, dùng để dedup + tracking. Không trùng giữa các code."
-          },
-          "code": {
-            "type": "string",
-            "minLength": 6,
-            "maxLength": 40,
-            "pattern": "^[A-Za-z0-9_-]+$",
-            "description": "Mã giftcode thật (không chứa chữ Nga/Hy Lạp lookalike)."
-          },
-          "title": { "type": "string", "description": "Mô tả ngắn, vd 'Quà tuần 4 tháng 9'." },
-          "description": { "type": "string", "description": "Mô tả chi tiết quà tặng." },
-          "source": {
-            "type": "string",
-            "format": "uri",
-            "description": "URL nguồn gốc (bài viết Garena, fanpage, Reddit, …)."
-          },
-          "tags": {
-            "type": "array",
-            "items": { "type": "string" }
-          },
-          "tier": {
-            "type": "string",
-            "enum": ["safe", "risky", "broken", "unknown"],
-            "description": "Trạng thái verify: safe (user đã dùng được), risky (lỗi Garena), broken (hết hạn/sai format), unknown (chưa verify)."
-          },
-          "verifiedAt": {
-            "type": "string",
-            "description": "Timestamp user verify gần nhất (định dạng DD/MM/YYYY HH:mm hoặc ISO)."
-          },
-          "validFrom": { "type": "string", "format": "date-time" },
-          "validUntil": { "type": "string", "format": "date-time" },
-          "addedAt": { "type": "string", "format": "date-time" }
-        },
-        "additionalProperties": false
-      }
-    }
+    "version": {"type": "number", "minimum": 1},
+    "lastUpdated": {"type": "string", "format": "date-time"},
+    "source": {"type": "object", "required": ["name"], "properties": {"name": {"type": "string"}, "minVotes": {"type": "integer", "minimum": 1}, "schemaUrl": {"type": "string", "format": "uri"}}},
+    "counts": {"type": "object", "required": ["total", "tierSafe", "tierRisky", "tierUnknown"], "additionalProperties": false, "properties": {"total": {"type": "integer", "minimum": 0}, "tierSafe": {"type": "integer", "minimum": 0}, "tierRisky": {"type": "integer", "minimum": 0}, "tierUnknown": {"type": "integer", "minimum": 0}}},
+    "codes": {"type": "array", "items": {"type": "object", "required": ["id", "code"], "additionalProperties": false, "properties": {
+      "id": {"type": "string", "minLength": 1},
+      "code": {"type": "string", "minLength": 6, "maxLength": 40, "pattern": "^[A-Za-z0-9_-]+$"},
+      "title": {"type": "string"}, "description": {"type": "string"},
+      "source": {"type": "string", "format": "uri"},
+      "tags": {"type": "array", "items": {"type": "string"}},
+      "tier": {"type": "string", "enum": ["safe", "risky", "broken", "unknown"]},
+      "verifiedAt": {"type": "string"},
+      "validFrom": {"type": "string", "format": "date-time"},
+      "validUntil": {"type": "string", "format": "date-time"},
+      "addedAt": {"type": "string", "format": "date-time"}
+    }}}
   }
 }
