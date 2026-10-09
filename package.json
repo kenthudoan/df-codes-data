@@ -1,0 +1,9 @@
+{
+  "name": "df-codes-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:admin": "node --test tests/admin.test.mjs",
+    "check:admin": "node --check docs/app.js && node --check docs/admin-core.js && node --test tests/admin.test.mjs"
+  }
+}
