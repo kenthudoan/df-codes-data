@@ -1,0 +1,36 @@
+name: Giftcode Admin Checks
+on:
+  pull_request:
+    paths:
+      - 'codes.json'
+      - 'expired.json'
+      - 'schema.json'
+      - 'docs/**'
+      - 'scripts/admin-apply.mjs'
+      - 'tests/admin.test.mjs'
+  push:
+    paths:
+      - 'docs/**'
+      - 'scripts/admin-apply.mjs'
+      - 'tests/admin.test.mjs'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check syntax and admin logic
+        run: |
+          node --check docs/app.js
+          node --check docs/admin-core.js
+          node --check scripts/admin-apply.mjs
+          node --test tests/admin.test.mjs
+      - name: Validate source feed
+        run: |
+          npm install --no-save ajv@8 ajv-formats@3
+          node scripts/validate.mjs
+          node scripts/feed-integrity.cjs
