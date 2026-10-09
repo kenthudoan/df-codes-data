@@ -1,0 +1,17 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {applyBatch,validate} from '../docs/admin-core.js';
+const base=()=>({version:1,source:{name:'Delta Force'},lastUpdated:'2026-10-01T00:00:00Z',counts:{total:1,tierSafe:1,tierRisky:0,tierUnknown:0},codes:[{id:'a',code:'EXAMPLEAA',tier:'safe'}]});
+const archive=()=>({version:1,lastUpdated:'2026-10-01T00:00:00Z',codes:[{id:'old',code:'EXAMPLEOLD',expiredAt:'2026-09-01T00:00:00Z',reason:'confirmed-expired'}]});
+const now='2026-10-10T00:00:00Z';
+test('add preserves original and refreshes counts',()=>{const before=base();const r=applyBatch(before,archive(),[{action:'add',code:'NEWGIFTCODE',tier:'unknown'}],now);assert.equal(before.codes.length,1);assert.equal(r.feed.counts.total,2);assert.equal(r.feed.counts.tierUnknown,1)});
+test('reject duplicate case-insensitive',()=>assert.throws(()=>applyBatch(base(),archive(),[{action:'add',code:'exampleaa'}]),/tồn tại/));
+test('reject expired reuse',()=>assert.throws(()=>applyBatch(base(),archive(),[{action:'add',code:'EXAMPLEOLD'}]),/tồn tại/));
+test('reject unsupported or bad code',()=>assert.throws(()=>applyBatch(base(),archive(),[{action:'add',code:'!!bad'}]),/định dạng/));
+test('expire moves to archive with reason',()=>{const r=applyBatch(base(),archive(),[{action:'expire',code:'EXAMPLEAA',reason:'server-confirmed-expired'}],now);assert.equal(r.feed.codes.length,0);assert.equal(r.expired.codes.length,2)});
+test('expire requires reason',()=>assert.throws(()=>applyBatch(base(),archive(),[{action:'expire',code:'EXAMPLEAA'}]),/lý do/));
+test('restore expired to unknown',()=>{const r=applyBatch(base(),archive(),[{action:'restore',code:'EXAMPLEOLD'}],now);assert.equal(r.expired.codes.length,0);assert.equal(r.feed.codes.at(-1).tier,'unknown')});
+test('reject duplicate edits',()=>assert.throws(()=>applyBatch(base(),archive(),[{action:'update',code:'EXAMPLEAA',title:'A'},{action:'expire',code:'EXAMPLEAA',reason:'expired'}]),/trùng mã/));
+test('reject too many actions',()=>assert.throws(()=>applyBatch(base(),archive(),Array(101).fill({action:'add',code:'EXAMPLEBB'})),/100/));
+test('detect duplicate case-insensitive',()=>{const d=base();d.codes.push({id:'b',code:'exampleaa',tier:'unknown'});assert.ok(validate(d,archive()).some(x=>x.includes('trùng')))});
+test('reject malformed dates',()=>assert.throws(()=>applyBatch(base(),archive(),[{action:'add',code:'NEWGIFTCODE',validUntil:'tomorrow'}]),/Ngày/));

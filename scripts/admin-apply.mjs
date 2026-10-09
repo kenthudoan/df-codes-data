@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import {applyBatch,validate} from '../docs/admin-core.js';
+const payload=JSON.parse(process.env.ADMIN_CHANGES_JSON||'{}');
+const original=JSON.parse(fs.readFileSync('codes.json','utf8'));
+const expired=JSON.parse(fs.readFileSync('expired.json','utf8'));
+if(!Array.isArray(payload.changes))throw Error('Thiếu mảng changes');
+if(original.lastUpdated!==payload.baseLastUpdated)throw Error('Nguồn đã thay đổi. Vui lòng tải lại Dashboard, không ghi đè dữ liệu cũ.');
+const pre=validate(original,expired);
+if(pre.length)throw Error('Nguồn không hợp lệ: '+pre.slice(0,5).join('; '));
+const {feed,expired:newExpired}=applyBatch(original,expired,payload.changes);
+fs.writeFileSync('codes.json',JSON.stringify(feed,null,2)+'\n');
+fs.writeFileSync('expired.json',JSON.stringify(newExpired,null,2)+'\n');
+console.log('PASS: '+payload.changes.length+' cập nhật; '+feed.codes.length+' mã hoạt động, '+newExpired.codes.length+' mã hết hạn');
