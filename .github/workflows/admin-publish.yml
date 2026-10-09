@@ -1,0 +1,49 @@
+name: Giftcode Admin Publish
+on:
+  workflow_dispatch:
+    inputs:
+      changes_json:
+        description: 'Dán payload lấy từ Dashboard (tối đa 100 thao tác)'
+        required: true
+        type: string
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: giftcode-admin-publish
+  cancel-in-progress: false
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Apply and validate requested changes
+        env:
+          ADMIN_CHANGES_JSON: ${{ inputs.changes_json }}
+        run: |
+          node scripts/admin-apply.mjs
+          npm install --no-save ajv@8 ajv-formats@3
+          node scripts/validate.mjs
+          node scripts/feed-integrity.cjs
+      - name: Create review Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BRANCH="admin/giftcodes-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCH"
+          git add codes.json expired.json
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi"; exit 1
+          fi
+          git commit -m "feat(codes): admin giftcode updates"
+          git push origin "$BRANCH"
+          gh pr create --base main --head "$BRANCH" --title "Giftcode Admin: cập nhật mã cộng đồng" --body "Tạo từ Dashboard GitHub Pages qua workflow_dispatch. Cần kiểm tra nội dung, nguồn mã và CI trước khi merge. Không tự động phê duyệt mã safe." 
