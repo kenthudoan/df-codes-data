@@ -11,7 +11,7 @@ export function validate(feed,expired) {
   if(seen.has(code))errors.push('Mã trùng: '+code);seen.add(code);
   if(!c?.id||ids.has(c.id))errors.push('ID thiếu/trùng: '+(c?.id||i));ids.add(c?.id);
   if(!allowed.has(c.tier||'unknown'))errors.push('Tier không hợp lệ: '+code);
-  for(const k of ['addedAt','verifiedAt','validFrom','validUntil'])if(c[k]&&!date(c[k]))errors.push('Ngày không hợp lệ: '+code+'/'+k);
+  for(const k of ['addedAt','verifiedAt','validFrom','validUntil'])if(c[k]&&!(k==='verifiedAt' ? (date(c[k])||/^([01]\\d|2[0-3]):[0-5]\\d (0[1-9]|[12]\\d|3[01])\\/(0[1-9]|1[0-2])\\/\\d{4}$/.test(c[k])) : date(c[k])))errors.push('Ngày không hợp lệ: '+code+'/'+k);
   if(c.validFrom&&c.validUntil&&Date.parse(c.validFrom)>Date.parse(c.validUntil))errors.push('Hạn trước ngày bắt đầu: '+code);
   if(c.source&&!/^https:\/\//i.test(c.source))errors.push('Nguồn không phải HTTPS: '+code);
  }
